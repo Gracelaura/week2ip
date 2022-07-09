@@ -51,12 +51,151 @@ nav ul li a {
    border: none;
    padding: 15px;
 }
-
-
-
-
-
-
+.container1 {
+    background-image: url(img/image1.png);
+    width: 100%;
+    height: 600px;
+    background-size: 100% 100%;
+    background-position: contain;
+}
+.buying {
+    padding-top:100px ;
+    padding-left: 50px;
+}
+.buying h1,p {
+    padding-bottom: 30px;
+}
+.buying button {
+  background-color: #ed661f;
+  color: white;  
+  border: none;
+  font-size: 20px;
+  font-weight: 600;
+  padding: 20
+}
+.farmproduce {
+ width: 50%; 
+ float: right; 
+ margin-top: -400px; 
+ margin-right: 50px;
+}
+.farmproduce img {
+    width: 100%;
+}
+.vendors {
+  display: flex;
+  background-color: white;
+  width: 50%;
+  align-items: center;
+  margin-left: 40%;
+  margin-top: 100px;
+  text-align: center;
+  padding: 20px;
+  box-shadow: 0px 2px 2px gray ;
+}
+.container2 {
+    width: 80%;
+    display: flex;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 90px;
+}
+.exist {
+    width: 40%;
+} 
+.exist h2 {
+  margin-bottom:30px ;  
+}
+.existimage {
+  width: 60%; 
+}
+.existimage img {
+    width: 100%;
+}
+.categories {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    margin-top: 20px;
+}
+.categories h2 {
+    margin-bottom: 20px;
+}
+.populartitle {
+    width: 80%;
+    margin-bottom: 20px;
+    margin-left: 11%;
+}
+.mostpopular {
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+.popular {
+    width: 25%;
+    padding: 15px;
+}
+.popular img {
+    width: 100%;
+}
+.popular h5 {
+    margin-bottom: 10px;
+}
+.popular p {
+    font-size: 10px;
+    margin-bottom: -30px;
+}
+/*.... start of newest item container....*/
+.newestitemtitle {
+    width: 80%;
+    margin-bottom: 20px;
+    margin-left: 11%;  
+}
+.newestitem {
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;  
+}
+.item {
+    width: 25%;
+    padding: 15px;  
+}
+.item img {
+    width: 100%;   
+}
+.item h5 {
+    margin-bottom: 10px;   
+}
+.item p {
+    font-size: 10px;
+    margin-bottom: -30px;  
+}
+/*... End of newest item container...*/
+.seeall {
+    width: 90%;
+    margin-left: 72%;
+}
+.seeall h4 {
+    font-weight:  500;
+}
+.seeall span {
+    position: relative;
+    top: -90px;
+    left: 60px;
+}
+h3 {
+    margin-top: 30px;
+    margin-left: 100px;
+}
 
 
 
