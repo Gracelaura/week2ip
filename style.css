@@ -193,13 +193,43 @@ nav ul li a {
     left: 60px;
 }
 .customers {
-    width: 80%;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    margin-left: auto;
-    margin-right: auto;
+  width: 80%;  
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-left: auto;
+  margin-right: auto;
+  
+
 }
+.client {
+    width: 24%;
+    box-shadow: 0px 0px 5px lightgray;
+
+}
+.stars {
+    width: 100%;
+    margin-bottom: 30px;
+}
+.stars img {
+    width: 18%;
+}
+.circleimage {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-top: 30px;
+    margin-bottom: auto;
+}
+.circleimage img {
+    width: 20%;
+}
+.circleimage p {
+    font-size: 12px;
+    font-weight: 700;
+}
+.    
+    
 
 
 
