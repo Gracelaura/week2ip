@@ -232,7 +232,7 @@ nav ul li a {
 .readmore {
     width: 90%;
     margin-left: 72%;
-    margin-bottom: 100px;
+    margin-bottom: -50px;
 } 
 .readmore h4 {
     font-weight:  500;
@@ -242,9 +242,78 @@ nav ul li a {
     position: relative;
     top: -90px;
     left: 90px;
-}    
+} 
+/*.... start of footer...*/
+.touch {
+    width: 100%;
+    height: 200px;
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    padding-top: 50px;
+}
+.touch h3 {
+    color: white;
+    margin-bottom: 20px;
+}
+.touch p {
+    color: white;
+    font-weight: 100;
+    font-size: 12px;
+}
+#email {
+background-color: white;
+border: none;
+padding: 8px 24px;
+}
+#subscribe {
+    background-color: #ed661f;
+    color: white;
+    border: none;
+    padding: 8px 24px;
+    margin-left: -4px;
+}
+.mainfooter {
+    width: 100%;
+    height: auto;
+    background-color: black;
+    display: flex;
+    padding: 50px;
+}
+.section1 {
+    width: 40%;
+    color: white;
+    
+}
+.section1 h1 {
+    color: white;
+    font-size: 30px;
+}
+.section1 p {
+    color: white;
+    font-size: 12px;
+}
+.icons {
+    width: 50%;
+    display: flex;
 
-
+}
+.icons img {
+    width: 15%;
+    border-radius: 30px;
+    padding: 10px;
+}
+.downloads {
+    width: 100%;
+    display: flex;
+    margin-top:10px ;
+}
+.downloads img {
+    width: 30%;
+    border-radius: 15px;
+    padding: 10px;
+}
 
 
 
