@@ -23,7 +23,7 @@
 
 * Any web browser on any device eg android, windows etc
 
-* Access to an internet connection
+* Access to an internet connection.
 
 ### Installation Process
 * Run the index.html on any web browser
