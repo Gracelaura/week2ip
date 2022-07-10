@@ -50,6 +50,6 @@ MIT
 
 Slack Profile - [@GraceNjuguna]
 
-Email Address - [Grace Njuguna](grace.njuguna@student.moringaschool.com)
+Email Address - [grace.njuguna@student.moringaschool.com](grace.njuguna@student.moringaschool.com)
 
 [Go Back to the top](https://github.com/Gracelaura/week2ip)
