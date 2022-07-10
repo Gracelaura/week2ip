@@ -276,13 +276,13 @@ padding: 8px 24px;
 }
 .mainfooter {
     width: 100%;
-    height: auto;
-    background-color: black;
     display: flex;
+    flex-direction: row;
+    background-color: black;
     padding: 50px;
 }
 .section1 {
-    width: 40%;
+    width: 35%;
     color: white;
     
 }
@@ -316,7 +316,6 @@ padding: 8px 24px;
 }
 .section2 {
     width: 20%;
-    flex-direction: row;
 }
 .section2 p a {
     text-decoration: none;
@@ -325,6 +324,17 @@ padding: 8px 24px;
 .section3 {
     width: 20%;
 } 
+.section3 p a {
+  text-decoration: none;  
+  color: white;
+}
+.section4 {
+    width: 20%;
+}
+.section4 p a {
+    text-decoration: none;
+    color: white;
+}
 
 
 
