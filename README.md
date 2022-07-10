@@ -28,7 +28,7 @@
 ### Installation Process
 * Run the index.html on any web browser
 
-[Go Back to the top](https://github.com/Gracelaura)
+[Go Back to the top](https://github.com/Gracelaura/week2ip)
 ## Technology Used
 * HTML - is the markup language used to build the structure of the pages.
 
@@ -38,13 +38,13 @@
 * 
 Moringa School Course Content
 
-[Go Back to the top](https://github.com/Gracelaura)
+[Go Back to the top](https://github.com/Gracelaura/week2ip)
 
 ## Licence
 
 MIT
 
-[Go Back to the top](https://github.com/Gracelaura)
+[Go Back to the top](https://github.com/Gracelaura/weeh2ip)
 
 ## Authors Info
 
@@ -52,4 +52,4 @@ Slack Profile - [@GraceNjuguna]
 
 Email Address - [Grace Njuguna](grace.njuguna@student.moringaschool.com)
 
-[Go Back to the top](https://github.com/Gracelaura)
+[Go Back to the top](https://github.com/Gracelaura/week2ip)
