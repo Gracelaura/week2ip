@@ -314,6 +314,17 @@ padding: 8px 24px;
     border-radius: 15px;
     padding: 10px;
 }
+.section2 {
+    width: 20%;
+    flex-direction: row;
+}
+.section2 p a {
+    text-decoration: none;
+    color: white;
+}
+.section3 {
+    width: 20%;
+} 
 
 
 
