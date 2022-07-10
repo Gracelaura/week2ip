@@ -48,7 +48,7 @@ MIT
 
 ## Authors Info
 
-Slack Profile - [@GraceNjuguna]
+Slack Profile - @GraceNjuguna
 
 Email Address - [grace.njuguna@student.moringaschool.com](grace.njuguna@student.moringaschool.com)
 
