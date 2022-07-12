@@ -1,4 +1,4 @@
-# Portfolio
+# Week2IP
 
 ##### By Grace Laura Njeri Njuguna
 ### This is a README file on my project on AgriPlus
@@ -28,7 +28,7 @@
 ### Installation Process
 * Run the index.html on any web browser
 
-[Go Back to the top](#portfolio)juguna
+[Go Back to the top](https://github.com/Gracelaura/week2ip)
 ## Technology Used
 * HTML - is the markup language used to build the structure of the pages.
 
@@ -38,18 +38,18 @@
 * 
 Moringa School Course Content
 
-[Go Back to the top](#portfolio)
+[Go Back to the top](https://github.com/Gracelaura/week2ip)
 
 ## Licence
 
-No licence required
+MIT
 
-[Go Back to the top](#portfolio)
+[Go Back to the top](https://github.com/Gracelaura/weeh2ip)
 
 ## Authors Info
 
-Slack Profile - [@GraceNjuguna]
+Slack Profile - @GraceNjuguna
 
-Email Address - [Grace Njuguna](grace.njuguna@student.moringaschool.com)
+Email Address - [grace.njuguna@student.moringaschool.com](grace.njuguna@student.moringaschool.com)
 
-[Go Back to the top](#portfolio)
+[Go Back to the top](https://github.com/Gracelaura/week2ip)
